@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Cutive Mono", monospace, serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Indie Flower', cursive;
+  font-size: 562.2%;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Cutive Mono', monospace, serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+hr {
+  border-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  margin: 100px auto;
+  width: 4%;
+}
+
+p {
+  color: #40514E;
+  font-family: 'Ubuntu Mono', monospace, serif;
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Cutive Mono', monospace, serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.topCloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.icon1 {
+  width: 20%;
+}
+
+.intro {
+  width: 20%;
+  margin: auto;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.icon2 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.profile {
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 30%;
+  margin: 100px auto;
+
+}
+
+.icon3 {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row2 {
+  width: 30%;
+  margin: 100px auto;
+}
+
+.contact-h3 {
+  margin-bottom: 50px;
+}
+
+.contact-p {
+  margin: 40px auto 60px;
+  width: 40%;
+}
+
+.btn {
+  background: #11999E;
+  background-image: -webkit-linear-gradient(top, #11999E, #11999E);
+  background-image: -moz-linear-gradient(top, #11999E, #11999E);
+  background-image: -ms-linear-gradient(top, #11999E, #11999E);
+  background-image: -o-linear-gradient(top, #11999E, #11999E);
+  background-image: linear-gradient(to bottom, #11999E, #11999E);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: 'Cutive Mono', monospace, serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 14px 20px 13px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 50px;
+  padding: 50px 0 20px;
+
+}
+
+.footer-p {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
